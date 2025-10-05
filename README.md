@@ -1,6 +1,6 @@
 # Swiggy-Marketing-Strategy-Analysis
 
-#📘 Project Overview
+# 📘 Project Overview
 This Power BI project focuses on analyzing **Swiggy’s customer and marketing strategy** to identify key insights that enhance marketing strategies and improve customer retention. This dashboard evaluates **the impact and performance of a marketing campaign**, helping stakeholders understand campaign reach, conversions, and ROI.
 
 # Objectives
