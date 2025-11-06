@@ -13,7 +13,7 @@ This Power BI project focuses on analyzing **Swiggy’s customer and marketing s
 - **Power BI** – Data cleaning, modeling, and visualization  
 - **Power Query** – Data transformation and preparation  
 - **DAX** – Calculations for KPIs and custom metrics
-  
+- 
 # Dashboard Highlights
 - Interactive slicers for filtering by date, region, and category  
 - Visuals include **bar charts**, **line graphs**, and **donut charts**  
